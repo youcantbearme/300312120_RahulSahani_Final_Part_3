@@ -8,19 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Yahoo!!</title>
+    <title>Rahul Sahani</title>
 </head>
 <body>
-Welcome ${name}. You entered ${password}
-
-
-
-
-</br>
-
-
-
-Welcome ${name}. You are now authenticated. <a href="list-todos">Click here</a> to start maintaining your todo's.
 
 </body>
 </html>
