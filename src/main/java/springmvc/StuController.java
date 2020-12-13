@@ -14,15 +14,8 @@ import java.sql.SQLException;
 @SessionAttributes("name")
 public class StuController {
 
-//    @RequestMapping(value = "/login")
-//    @ResponseBody
-//    public String sayHello() {
-//        return "Hello World dummy";
-//    }
 
-
-
-   // private LoginService loginService = new LoginService();
+    //Gitgub Link: https://github.com/youcantbearme/300312120_RahulSahani_Final_Part_3.git
 
     StudentService service = new StudentService();
 
